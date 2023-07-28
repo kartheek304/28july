@@ -2,7 +2,7 @@ class Hello
 {
 	public static void main(string args[])
 	{
-		system.out.println("hello from Remote");
+		system.out.println("Hello from Remote tab");
 	}
 }
 
